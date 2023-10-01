@@ -1,0 +1,3 @@
+/Users/studyhole/Desktop/art/udptalker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/studyhole/Desktop/art/udptalker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/studyhole/Desktop/art/udptalker/cmake-build-debug/CMakeFiles/udptalker.dir

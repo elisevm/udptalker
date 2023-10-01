@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/studyhole/Desktop/art/udptalker/main.cpp
+cstdio
+-
+cstdlib
+-
+unistd.h
+-
+cstring
+-
+sys/socket.h
+-
+netdb.h
+-
+
